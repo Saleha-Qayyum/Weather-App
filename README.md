@@ -2,6 +2,7 @@
 
 A responsive weather application built using HTML, CSS, and JavaScript.  
 This app allows users to search for real-time weather information by city name and displays an error message when an invalid city is entered.
+Live Demo:https://saleha-qayyum.github.io/Weather-App/
 
 ---
 
@@ -40,7 +41,7 @@ Error Message
 ## 🔧 How to Use
 
 1. Clone the repository  
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Saleha-Qayyum/Weather-App.git
 
 2. Open the project folder
 
